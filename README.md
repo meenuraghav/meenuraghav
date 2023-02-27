@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="shorturl.at/fuAOQ"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenuraghav&label=Profile%20views&color=0e75b6&style=flat" alt="meenuraghav" /> </p>
 
-- 🔭 I’m currently working on [Rainfall Prediction using Artificial Neural Networksan Dataset](https://github.com/meenuraghav/Rainfall-Prediction-using-Artificial-Neural-Networks)
+- 🔭 I’m currently working on [Rainfall Prediction using Artificial Neural Networks](https://github.com/meenuraghav/Rainfall-Prediction-using-Artificial-Neural-Networks)
 
 - 🌱 I’m currently learning **Block chain, Data Structures and algorithms**
 
